@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = APICotacoes
+build_property.ProjectDir = C:\Users\smkwo\Downloads\ASPNETCore3.1_SQLServer-JSON_NewProvider-master\ASPNETCore3.1_SQLServer-JSON_NewProvider-master\APICotacoes\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
